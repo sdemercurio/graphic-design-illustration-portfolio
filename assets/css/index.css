@@ -121,7 +121,7 @@ nav {
 	
 	font-family: var(--font-mono);
 	font-size: var(--fz-xxs);
-	
+	padding-bottom: 20px;
 	letter-spacing: 0.21em;
 	writing-mode: vertical-rl;
 }
@@ -139,7 +139,7 @@ a {
 	content: "";
 	display: block;
 	width: 1px;
-	height: 150px;
+	height: 100px;
 	margin: 0px auto;
 	background-color: rgb(189, 188, 188);
 }
